@@ -1,0 +1,1 @@
+https://medium.com/rd-shipit/internationalizing-a-front-end-application-88f1baae3d82
